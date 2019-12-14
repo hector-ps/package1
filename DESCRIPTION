@@ -10,4 +10,4 @@ License: What license is it under?
 Imports: chron
 Encoding: UTF-8
 LazyData: true
-Remotes: github::hector-ps/package2
+Remotes: github::https://github.com/hector-ps/package2
